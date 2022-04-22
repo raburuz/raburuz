@@ -1,4 +1,4 @@
-## Hello World!, I’m Jean 👋 and I am Web Developer 💻. 
+## Hello World!, I’m Jean 👋 and I'm Web Developer 💻. 
 
 I'm a Full Stack Developer who lover work with Javascript technologies.
 I'm working building software that make your life so much easier right now.
