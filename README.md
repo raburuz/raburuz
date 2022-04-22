@@ -25,5 +25,5 @@ I'm working building software that make your life so much easier right now.
 
 - Scholarship holder at `Input For You. Spain` building a system project with Angular for exponentians clients.
 
-- 📫 If you are interesting in how to reach me send me a email : naburuz54(dot)gmail.com :) I'm wait for you message
+📫 If you are interesting in how to reach me send me a email : naburuz54(dot)gmail.com :) I'm wait for you message
  
