@@ -5,9 +5,9 @@ I'm working building software that make your life so much easier right now.
 
 
 ### 👨‍💻 Tech stack
-🌅 Front-end: Angular, React, NextJS with Typescript
-🌌 Back-end: NodeJS, Express, Laravel
-🌆 Database: MYSQL, MongoDB 
+- 🌅 Front-end: Angular, React, NextJS with Typescript
+- 🌌 Back-end: NodeJS, Express, Laravel
+- 🌆 Database: MYSQL, MongoDB 
 
 ### My skills like Developer
 
