@@ -19,11 +19,11 @@ I'm working building software that make your life so much easier right now.
 - Back-end Development
 - Build RESTful APIs for Backend(NodeJS, Laravel)
 
-😊 Programing and Learning new things ✨ is my true passion and I'm really enjoy it to the full
+😊 Programing and Learning new things ✨ is my true passion and I'm really enjoy it to the full.
 
 ### Industry Experience
 
 - Scholarship holder at `Input For You. Spain` building a system project with Angular 13 for exponentians clients.
 
-📫 If you are interesting in how to reach me send me a email : naburuz54(dot)gmail.com :) I'm wait for you message
+📫 If you are interesting in how to reach me send me a email : naburuz54(dot)gmail.com :) I'm waiting for you message. 
  
