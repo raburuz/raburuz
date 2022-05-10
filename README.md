@@ -1,11 +1,11 @@
 ## Hello World!, I’m Jean 👋 and I'm Software Developer 💻. 
 
-I'm a Full Stack Developer who lover work with Javascript technologies.
-I'm working building software that make your life so much easier right now.
+I'm a Front-end Developer who lover work with Javascript technologies.
+I'm working building software that make your life so much easier right now :).
 
 
 ### 👨‍💻 Tech stack
-- 🌅 Front-end: Angular, React, NextJS with Typescript
+- 🌅 Front-end: React and NextJS with Typescript, Angular
 - 🌌 Back-end: NodeJS, Express, Laravel
 - 🌆 Database: MYSQL, MongoDB 
 
@@ -16,10 +16,10 @@ I'm working building software that make your life so much easier right now.
 - Front-end Development
 - Responsive Web Design
 - Build SEO Friendly Applications with NextJS
-- Back-end Development
-- Build RESTful APIs for Backend(NodeJS, Laravel)
+- Back-end Development with Node and Laravel
+- Build RESTful APIs for Backend
 
-😊 Programming and Learning new things ✨ is my true passion and I'm really enjoy it to the full.
+😊 Programming and Learning new things everyday ✨ is my true passion and I'm really enjoy it to the full.
 
 ### Industry Experience
 
