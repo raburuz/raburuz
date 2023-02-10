@@ -20,7 +20,7 @@ I have a wide range of skills and competencies that allow me to create effective
 ## Experience
 
 ### Frontend Developer
-**Granada Dynamics**  jun. 2022 - currently \
+**Granada Dynamics** / jun. 2022 - currently \
 Granada, Andalusia, Spain \
 E-Learning platform 
 
@@ -33,7 +33,7 @@ E-Learning platform
 
 
 ### Frontend Developer
-**Input for You**  feb. 2022 - jun. 2022 \
+**Input for You** / feb. 2022 - jun. 2022 \
 Granada, Andalusia, Spain \
 Document Processing Services 
 
