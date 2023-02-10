@@ -20,9 +20,9 @@ I have a wide range of skills and competencies that allow me to create effective
 ## Experience
 
 ### Frontend Developer
-**Granada Dynamics**  jun. 2022 - currently \n
-Granada, Andalusia, Spain \n
-E-Learning platform \n
+**Granada Dynamics**  jun. 2022 - currently \
+Granada, Andalusia, Spain \
+E-Learning platform \
 
 - ▪ Develop Angular libraries focused on the efficiency and effectiveness of online learning.
 - ▪ Creation of advanced components and state handlers following clean code practices to ensure a smooth user experience and optimized performance.
@@ -33,9 +33,9 @@ E-Learning platform \n
 
 
 ### Frontend Developer
-**Input for You**  jun. 2022 - currently \n
-Granada, Andalusia, Spain \n
-Document Processing Services \n
+**Input for You**  feb. 2022 - jun. 2022 \
+Granada, Andalusia, Spain \
+Document Processing Services \
 
 - ▪ Develop an Angular application for a leading insurance company.
 - ▪ Collaborate with a team of professionals to build the application's logic and architecture.
