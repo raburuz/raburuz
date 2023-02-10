@@ -18,7 +18,7 @@ I have a wide range of skills and competencies that allow me to create effective
 📫 If you want to know more about me, you can connect with me on LinkedIn, send me an email, or we can even grab a coffee. ✌
 
 [Linkdln](https://www.linkedin.com/in/jean-ram) \
-[Personal Web](https://arkift.com/me)
+[Web](https://arkift.com/me)
 
 ## Experience
 
