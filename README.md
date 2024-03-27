@@ -1,24 +1,13 @@
-## Hello World!, I’m Jean 👋 and I'm Software Developer 💻. 
+## Hi there!, I’m Jean Ramirez👋💻. 
 
-👋Hi! I'm Jean, a software developer with a year of experience in creating innovative and user-focused technological solutions.
+Software developer with two years of experience focusing on creating solutions.
 
-I have a wide range of skills and competencies that allow me to create effective and efficient technological solutions. My strengths include:
+🟢 Passionate about working in a international team
+🟢 Currently seeking new opportunities, preferably remote position
 
-- In-depth knowledge of technologies such as React, Next.js, Angular, Node.js, Typescript, and Javascript.
-- Ability to understand user needs and translate them into software solutions that meet their demands.
-- Ability to work collaboratively and effectively in interdisciplinary teams.
-- User-focused approach to maximize the functionality and ease of use of the products I create.
-- Dedication to staying up-to-date with the latest technologies and trends in software development.
-- Ability to solve complex problems and improve process efficiency.
-
-🟢 I am passionate about working in a collaborative team and using my technical skills to solve complex problems and improve efficiency. I am constantly seeking new opportunities to expand my knowledge and skills to be a valuable member of any company.
-
-🎯 My professional goal is to contribute to the success of the company through the creation of innovative and efficient technological solutions. I strive to understand user needs and market demands to develop high-quality products that meet expectations.
-
-📫 If you want to know more about me, you can connect with me on LinkedIn, send me an email, or we can even grab a coffee. ✌
+📫 Connect with me on LinkedIn, Twitter, email, or we may take coffee. ✌
 
 [Linkdln](https://www.linkedin.com/in/jean-ram) \
-[Web](https://arkift.com/me)
 
 ## Experience
 
@@ -47,3 +36,10 @@ Document Processing Services
 - Work closely with the insurance company to ensure the application meets their specific requirements and business goals.
 - Continuously improve and optimize the application to stay ahead and ensure its long-term success.
 - Stack: Git · TypeScript · JavaScript · Angular
+
+
+Skills :
+- Programming: Typescript, Javascript, HTML, CSS
+- Frameworks: React, NextJs, Angular, NodeJs, NestJs, Docker
+- Databases: MongoDB
+- Languages: Spanish, English
