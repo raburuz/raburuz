@@ -2,7 +2,7 @@
 
 Software developer with two years of experience focusing on creating solutions.
 
-🟢 Passionate about working in a international team
+🟢 Passionate about working in an international team
 
 🟢 Currently seeking new opportunities, preferably remote position
 
