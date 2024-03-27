@@ -13,7 +13,7 @@ Software developer with two years of experience focusing on creating solutions.
 ## Experience
 
 ### Frontend Developer
-**Granada Dynamics** / jun. 2022 - currently \
+**Granada Dynamics** / jun. 2022 - may. 2023 \
 Granada, Andalusia, Spain \
 E-Learning platform 
 
