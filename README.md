@@ -3,6 +3,7 @@
 Software developer with two years of experience focusing on creating solutions.
 
 🟢 Passionate about working in a international team
+
 🟢 Currently seeking new opportunities, preferably remote position
 
 📫 Connect with me on LinkedIn, Twitter, email, or we may take coffee. ✌
